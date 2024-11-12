@@ -112,3 +112,5 @@ const EditProduct = () => {
     </Container>
   );
 };
+
+export default EditProduct;
